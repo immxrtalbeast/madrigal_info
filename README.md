@@ -1,5 +1,7 @@
 # Общая информация о решении кейса "Генерация сценариев и раскадровок для коротких видеороликов"
 ### Команда input math
+### Деплой
+[Решение доступно по ссылке](http://87.228.89.123:3000/register)
 ### Репозитории
 Репозиторий [Frontend](https://github.com/realSlimPudge/madrigal-front)  
 Репозиторий [Api Gateway](https://github.com/immxrtalbeast/madrigal_api-gateway)  
