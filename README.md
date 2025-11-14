@@ -8,5 +8,13 @@
 ### Инструкция по запуску
 1. Скопируйте docker-compose.yml
 2. Скопируйте .env в папку с docker-compose.yml
-3. Заполните .env
+3. Замените следущие поля своими значениями
+```
+VIDEO_SERVICE_ELEVENLABS_API_KEY=
+VIDEO_SERVICE_MISTRAL_API_KEY=
+VIDEO_SERVICE_S3_ACCESS_KEY=
+VIDEO_SERVICE_S3_SECRET_KEY=
+VIDEO_SERVICE_S3_PUBLIC_URL=
+VIDEO_SERVICE_GEMINI_API_KEY=
+```
 4. Выполните ```docker-compose up```
